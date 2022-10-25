@@ -5,7 +5,9 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 model = keras_cv.models.StableDiffusion(img_width=512, img_height=512)
-images = model.text_to_image("basketball flies into the sun, realistic", batch_size=2)
+images = model.text_to_image("cute magical flying dog, fantasy art, "
+    "golden color, high quality, highly detailed, elegant, sharp focus, "
+    "concept art, character concepts, digital painting, mystery, adventure", batch_size=2)
 
 def plot_images(images):
     plt.figure(figsize=(20, 20))
