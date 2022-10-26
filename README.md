@@ -1,8 +1,8 @@
 # acm Fall 2022 - Stable Diffusion
 
 ## Dependancys
-* Python3 (created using python3.8)
-* Python3 Libraries
+* Python3
+* Python3 Libraries (can be installed using pip)
   * Tensorflow
   * Tensorflow_datasets
   * Keras_cv
