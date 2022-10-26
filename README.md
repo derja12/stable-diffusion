@@ -1,5 +1,12 @@
 # acm Fall 2022 - Stable Diffusion
 
+## Dependancys
+* Python3 (created using python3.8)
+* Python3 Libraries
+  * Tensorflow
+  * Tensorflow_datasets
+  * Keras_cv
+
 ## Creating a model
 In order to create your own model, either of the following:
 ### Use the minimal_generator python file by running the following
@@ -16,3 +23,8 @@ python3 generator.py -f FILENAME -b IMAGE_COUNT -h IMAGE_HEIGHT -w IMAGE_WIDTH
 The generator python file uses flags to customize generation. In order to change batch_size, filename, 
 or image_sizing, define the respective flags when running the above command. Run the command with `-h` to see 
 the options in more detail. Changing the prompt still requires editing hardcoded file values, specifically the global `PROMPT` value.
+
+## Resources/Tutorial links
+* [Tutorial](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
+* [Stable Diffusion API](https://keras.io/api/keras_cv/models/stable_diffusion/)
+* [Stable Diffusion Illustration](https://jalammar.github.io/illustrated-stable-diffusion/)
