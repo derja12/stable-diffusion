@@ -29,3 +29,7 @@ the options in more detail. Changing the prompt still requires editing hardcoded
 * [Stable Diffusion API](https://keras.io/api/keras_cv/models/stable_diffusion/)
 * [Stable Diffusion Illustration](https://jalammar.github.io/illustrated-stable-diffusion/)
 * [Video explaining AI Image Generation](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+* Prompt Stuff
+    * [Prompt discussion/Examples](https://strikingloo.github.io/stable-diffusion-vs-dalle-2)
+    * [Prompt Guide](https://www.howtogeek.com/833169/how-to-write-an-awesome-stable-diffusion-prompt/)
+    * [List of 100 prompts](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/)
