@@ -28,3 +28,4 @@ the options in more detail. Changing the prompt still requires editing hardcoded
 * [Tutorial](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
 * [Stable Diffusion API](https://keras.io/api/keras_cv/models/stable_diffusion/)
 * [Stable Diffusion Illustration](https://jalammar.github.io/illustrated-stable-diffusion/)
+* [Video explaining AI Image Generation](https://www.youtube.com/watch?v=1CIpzeNxIhU)
