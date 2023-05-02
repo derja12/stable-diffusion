@@ -1,4 +1,4 @@
-# acm Fall 2022 - Stable Diffusion
+# ACM Fall 2022 - Stable Diffusion
 
 ## Dependancys
 * Python3
